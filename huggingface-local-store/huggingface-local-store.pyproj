@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="huggingface-local-store.py" />
+    <Compile Include="setup.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
